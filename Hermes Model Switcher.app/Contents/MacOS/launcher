@@ -1,0 +1,3 @@
+#!/bin/bash
+osascript -e 'tell application "Terminal" to activate'
+osascript -e 'tell application "Terminal" to do script "/usr/local/bin/hermes-model"'
