@@ -33,7 +33,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/okireganoto/hermes-model-switcher
+git clone https://github.com/okireganoto-maker/hermes-model-switcher
 cd hermes-model-switcher
 bash install.sh
 ```
